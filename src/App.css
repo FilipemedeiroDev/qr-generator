@@ -81,3 +81,10 @@
 .links-socialmedia a {
   all: unset;
 }
+
+@media (max-width: 440px) {
+  .container {
+    width: 100%;
+    padding: 1rem;
+  }
+}
